@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/mx/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # TAVARDT México | Ingeniería Web, Ciberseguridad y Arquitectura de Crecimiento Digital
 
 TAVARDT es una firma de consultoría en ingeniería digital, ciberdefensa y arquitectura de crecimiento especializada en aplicaciones web de misión crítica, mitigación proactiva de amenazas y sistemas de captación digital basados en datos.
